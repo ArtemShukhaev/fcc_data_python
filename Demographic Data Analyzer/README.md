@@ -10,6 +10,8 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 |  3 |    53 | Private          |   234721 | 11th        |               7 | Married-civ-spouse | Handlers-cleaners | Husband        | Black  | Male   |              0 |              0 |               40 | United-States    | <=50K    |
 |  4 |    28 | Private          |   338409 | Bachelors   |              13 | Married-civ-spouse | Prof-specialty    | Wife           | Black  | Female |              0 |              0 |               40 | Cuba             | <=50K    |
 
+# Tasks
+
 You must use Pandas to answer the following questions:
 + How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 + What is the average age of men?
